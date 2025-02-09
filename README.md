@@ -16,12 +16,12 @@
 
 ## 系统运行截图
 
-http://124.222.106.130:8081/xiaoyu/#/article/8
-![image.png](http://124.222.106.130:8081/api/resource/getFile?name=articlePicture/Sara11718110505786361.png)
-![image.png](http://124.222.106.130:8081/api/resource/getFile?name=articlePicture/Sara1171811055414669.png)
-![image.png](http://124.222.106.130:8081/api/resource/getFile?name=articlePicture/Sara11718110581320641.png)
-![image.png](http://124.222.106.130:8081/api/resource/getFile?name=articlePicture/Sara11718110596774624.png)
-![image.png](http://124.222.106.130:8081/api/resource/getFile?name=articlePicture/Sara11718110613211202.png)
+http://111.231.74.123:8081/xiaoyu/#/article/8
+![image.png](http://111.231.74.123:8081/api/resource/getFile?name=articlePicture/Sara11718110505786361.png)
+![image.png](http://111.231.74.123:8081/api/resource/getFile?name=articlePicture/Sara1171811055414669.png)
+![image.png](http://111.231.74.123:8081/api/resource/getFile?name=articlePicture/Sara11718110581320641.png)
+![image.png](http://111.231.74.123:8081/api/resource/getFile?name=articlePicture/Sara11718110596774624.png)
+![image.png](http://111.231.74.123:8081/api/resource/getFile?name=articlePicture/Sara11718110613211202.png)
 
 
 ## 技术栈：
@@ -34,9 +34,9 @@ http://124.222.106.130:8081/xiaoyu/#/article/8
 
 前台（根据登录的不同用户自动进入不同角色）：
 
-http://124.222.106.130:8081/xiaoyu/#/article/8
+http://111.231.74.123:8081/xiaoyu/#/article/8
 
-[点此跳转](http://124.222.106.130:8081/xiaoyu/#/article/8)
+[点此跳转](http://111.231.74.123:8081/xiaoyu/#/article/8)
 
 用户名密码：
 
